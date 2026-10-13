@@ -1,0 +1,6 @@
+[submodule "csv-to-jsonlines"]
+	path = csv-to-jsonlines
+	url = https://github.com/dillonsingh26/csv-to-jsonlines.git
+[submodule "anscombe-go-stats"]
+	path = anscombe-go-stats
+	url = https://github.com/dillonsingh26/anscombe-go-stats.git
