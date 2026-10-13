@@ -4,3 +4,6 @@
 [submodule "anscombe-go-stats"]
 	path = anscombe-go-stats
 	url = https://github.com/dillonsingh26/anscombe-go-stats.git
+[submodule "portfolio"]
+	path = portfolio
+	url = https://github.com/dillonsingh26/portfolio.git
