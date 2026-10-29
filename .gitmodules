@@ -10,3 +10,6 @@
 [submodule "diamonds-onnx-gomlx"]
 	path = diamonds-onnx-gomlx
 	url = https://github.com/dillonsingh26/diamonds-onnx-gomlx.git
+[submodule "go-image-pipeline"]
+	path = go-image-pipeline
+	url = https://github.com/dillonsingh26/go-image-pipeline.git
