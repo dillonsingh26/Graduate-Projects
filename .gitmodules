@@ -13,3 +13,6 @@
 [submodule "go-image-pipeline"]
 	path = go-image-pipeline
 	url = https://github.com/dillonsingh26/go-image-pipeline.git
+[submodule "go-wiki-crawler"]
+	path = go-wiki-crawler
+	url = https://github.com/dillonsingh26/go-wiki-crawler.git
